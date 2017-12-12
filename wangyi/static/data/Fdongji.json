@@ -1,0 +1,46 @@
+{
+
+	"lists":["推荐区","冬季专区","出行专区","居家","餐厨","配件","服装","电器","洗护","杂货","饮食","婴童","志趣"],
+
+	"shuList":[
+		{
+         "head": "冬季美食",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/cbec808d1f99b039c89a9f613f77076f.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "冬季床品",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/44cc0499159eedcb42782a8fc49d5c6a.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "男士冬搭",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/7a4f351352a83300f5d41cc8e0f54536.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "女士冬搭",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/952091313fddf0e4237524f9470882e4.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "萌宝冬搭",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/41ca44e493024e073325eb09defe21af.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "保暖内衣",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/b4a8c95be9058f4ac700e8c3031feaca.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "冬季食具",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/bd8b53fe4c46aa1f86246080dd551ae8.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "冬季暖袜",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/bd8b53fe4c46aa1f86246080dd551ae8.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "暖融拖鞋",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/61b9921ff3ec9b6002ccd63116dbade8.png?imageView&quality=85&thumbnail=144x144"
+	},
+	{
+         "head": "保暖电器",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/54ed9e65612f61338711cac2d0ee9145.png?imageView&quality=85&thumbnail=144x144"
+	}
+]}

@@ -1,0 +1,2007 @@
+{
+  "code": "200",
+  "data": {
+    "cateList":[
+      {
+          "id": 1010000,
+          "superCategoryId": 0,
+          "showIndex": 0,
+          "name": "服装",
+          "frontName": "",
+          "frontDesc": null,
+          "bannerUrl": "http://yanxuan.nosdn.127.net/135113d6a43536b717063413fa24d69a.jpg",
+          "iconUrl": null,
+          "level": null,
+          "subCateList": [
+              {
+                  "id": 1035001,
+                  "superCategoryId": 1010000,
+                  "showIndex": 1,
+                  "name": "毛衫",
+                  "frontName": "温暖柔软，品质之选",
+                  "frontDesc": "温暖柔软，品质之选",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/cc886f16c8b9893305f1b3b6ad4eb0b1.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "女式小山羊绒V领针织衫",
+                      "frontDesc": "触摸极致的柔软，温暖过一冬",
+                      "price": 599,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/872838d48b461bbf55d1eb0afc98b1d8.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    },
+                    {
+                      "name": "意大利制造 情侣100%超细美利奴毛衣",
+                      "frontDesc": "意大利GUCCI纱线，设计款限量发售",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/64b9fbce1433a8aa362ca7d59622d2cd.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num":0
+                    }
+                  ]
+              },
+              {
+                  "id": 1020009,
+                  "superCategoryId": 1010000,
+                  "showIndex": 2,
+                  "name": "外衣",
+                  "frontName": "穿出时尚感",
+                  "frontDesc": "外衣，是你面对这个世界的铠甲",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/883d89e54a9287569a201eca388a7cda.png",
+                  "iconUrl": "",
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式迷彩短款厚羽绒",
+                      "frontDesc": "虎斑迷彩，温暖厚实的暖意佼佼者",
+                      "price": 1699,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ec395f701ca97f823ec72fe72a1c786f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式中长羽绒服",
+                      "frontDesc": "完全不挑人的中长款，穿上就是街拍新宠",
+                      "price": 569,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/28e64b26ec5462a4ba3fc6fe0c8214d3.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1035000,
+                  "superCategoryId": 1010000,
+                  "showIndex": 3,
+                  "name": "卫衣",
+                  "frontName": "舒适百搭，时尚选择",
+                  "frontDesc": "舒适百搭，时尚选择",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/97bb55280b8ffa40390f2ee36486314a.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式弹力连帽运动开衫",
+                      "frontDesc": "运动休闲两适宜",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0d0c641db9c09f6146e828fa7650e06a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式弹力连帽套头运动衫",
+                      "frontDesc": "一见倾心，经典白搭",
+                      "price": 169,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/71be95511af4cec4068c13f0b34ba005.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1035002,
+                  "superCategoryId": 1010000,
+                  "showIndex": 4,
+                  "name": "裤装",
+                  "frontName": "高质感面料，休闲商务两相宜",
+                  "frontDesc": "高质感面料",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/a3906045b1367d70f658ce9de03e8193.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "快热纤维暖入纱织，给你高强的储热惊喜",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/95e97eb6dd86d8a90ff46f7ae8542fc5.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "女式火山岩冬季保暖牛仔裤",
+                      "frontDesc": "高腰高挑高热量，火山岩热度不褪",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d50517d5b6d49c2d571cde37fdb54841.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1020010,
+                  "superCategoryId": 1010000,
+                  "showIndex": 5,
+                  "name": "衬衫",
+                  "frontName": "细节讲究，合身剪裁",
+                  "frontDesc": "挺拔而不束缚",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/94aa4a4814e2a7a97639438f1d52dcee.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式人字纹法兰绒衬衫",
+                      "frontDesc": "高端雅致，低调奢华",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/327b2f429002189e6c16535b79dcd496.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "文艺男士穿搭组合",
+                      "frontDesc": "永不过时的盐系文艺腔",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/41a3aa928be3132385ed3323bb74823f.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1015001,
+                  "superCategoryId": 1010000,
+                  "showIndex": 6,
+                  "name": "T恤",
+                  "frontName": "自在而潇洒的穿着感",
+                  "frontDesc": "立体裁剪，专为国人打造",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/24a7a33cfeac0bb87a737480db79e053.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1010001,
+                  "superCategoryId": 1010000,
+                  "showIndex": 7,
+                  "name": "内衣",
+                  "frontName": "给你贴身的关怀",
+                  "frontDesc": "自然染料，亲肤舒适",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/20279e1753e4eedc6e347857acda9681.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1010002,
+                  "superCategoryId": 1010000,
+                  "showIndex": 8,
+                  "name": "内裤",
+                  "frontName": "来自李维斯、爱慕等制造商",
+                  "frontDesc": "透气洁净，环保染制",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/364269344ed69adafe1b70ab7998fc50.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1008004,
+                  "superCategoryId": 1010000,
+                  "showIndex": 9,
+                  "name": "袜子",
+                  "frontName": "优衣库、CK、拉尔夫劳伦制造商",
+                  "frontDesc": "优衣库、CK、拉尔夫劳伦制造商",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/f123c74f54d9acff0bd1546c60034814.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1013006,
+                  "superCategoryId": 1010000,
+                  "showIndex": 10,
+                  "name": "家居服",
+                  "frontName": "舒适亲肤",
+                  "frontDesc": "居家休闲必备",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/71f391af17fce739a6a57a1eeadbcbf0.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1034000,
+                  "superCategoryId": 1010000,
+                  "showIndex": 11,
+                  "name": "丝袜",
+                  "frontName": "厚木制造商，秋冬搭配佳品",
+                  "frontDesc": "厚木制造商，秋冬搭配佳品",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/d82d0bacfd7243c2ad09dbf2513cfcf9.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式莫代尔V领T恤",
+                      "frontDesc": "丝光后处理，严抗起球",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/c5205a8ac34e6a216db65fa0e2384480.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%纯棉 女式纯棉百搭V领T恤",
+                      "frontDesc": "V领勾勒的极简主义",
+                      "price": 160,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f53ec3eeffe3523d02f7d9410f4090db.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              }
+          ]
+      }
+    ]
+  }
+}

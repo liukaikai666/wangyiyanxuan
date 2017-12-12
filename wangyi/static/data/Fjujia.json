@@ -1,0 +1,30 @@
+{
+
+	"lists":["推荐区","冬季专区","出行专区","居家","餐厨","配件","服装","电器","洗护","杂货","饮食","婴童","志趣"],
+
+	"shuList":[
+		{
+         "head": "被枕",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/efae8e697ffb3c2e5edec74324c2b6b0.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "床品件套",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/261ccacc69b7a526538178eb34b31f54.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "布艺软装",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/ef22d920fd41d0174edf7cd52d5a9ab3.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "收纳",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/2a62f6c53f4ff089fa6a210c7a0c2e63.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "家具",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/16b936a40daf74eb36fdefdd361c88b3.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "宠物",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/6ee564543f7cbc140794e68c9ac0e17e.png?imageView&quality=85&thumbnail=144x144"
+	}
+]}

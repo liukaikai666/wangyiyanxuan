@@ -1,0 +1,1277 @@
+{
+  "code": "200",
+  "data": {
+    "cateList": [
+      {
+          "id": 1008000,
+          "superCategoryId": 0,
+          "showIndex": 0,
+          "name": "配件",
+          "frontName": "",
+          "frontDesc": null,
+          "bannerUrl": "http://yanxuan.nosdn.127.net/9d577dca06b08a69088e9f44f979fa86.png",
+          "iconUrl": null,
+          "level": null,
+          "subCateList": [
+              {
+                  "id": 1037000,
+                  "superCategoryId": 1008000,
+                  "showIndex": 1,
+                  "name": "行李箱",
+                  "frontName": "轻奢行李箱陪你走天下",
+                  "frontDesc": "各式行李箱陪你走天下",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/288b0e864a24763bade8e22c0c39ff02.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "24寸 纯PC“铝框”（非全铝）拉杆箱",
+                      "frontDesc": "71升容量升级，灵活出行",
+                      "price": 389,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/355456d48b76839b27a4066f8fd201cc.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "黑凤梨 20寸PC膜拉链登机箱",
+                      "frontDesc": "小巧尺寸，51升轻松出行",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ab37119776dcc82cf36a5a1e26895a5d.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "24寸 纯PC“铝框”（非全铝）拉杆箱",
+                      "frontDesc": "71升容量升级，灵活出行",
+                      "price": 389,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/355456d48b76839b27a4066f8fd201cc.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "黑凤梨 20寸PC膜拉链登机箱",
+                      "frontDesc": "小巧尺寸，51升轻松出行",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ab37119776dcc82cf36a5a1e26895a5d.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "24寸 纯PC“铝框”（非全铝）拉杆箱",
+                      "frontDesc": "71升容量升级，灵活出行",
+                      "price": 389,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/355456d48b76839b27a4066f8fd201cc.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "黑凤梨 20寸PC膜拉链登机箱",
+                      "frontDesc": "小巧尺寸，51升轻松出行",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ab37119776dcc82cf36a5a1e26895a5d.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "24寸 纯PC“铝框”（非全铝）拉杆箱",
+                      "frontDesc": "71升容量升级，灵活出行",
+                      "price": 389,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/355456d48b76839b27a4066f8fd201cc.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    }
+                  ]
+              },
+              {
+                  "id": 1012001,
+                  "superCategoryId": 1008000,
+                  "showIndex": 2,
+                  "name": "功能箱包",
+                  "frontName": "范思哲、Coach等品牌制造商出品",
+                  "frontDesc": "箱子里装着你的生活",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/e8e77f0c1eb2572c900d17870d48038a.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                    ,"num"  :0
+                    },
+                    {
+                      "name": "儒墨简风尼龙公文包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/df6f5e86aeec5a07ee320bc688aca169.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    },
+                    {
+                      "name": "牛皮简约短款钱包",
+                      "frontDesc": "柔软触感，缔造绅士典范",
+                      "price": 189,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ea54493f75dfc05c9fbacdf9a256735c.png?imageView&quality=65&thumbnail=330x330"
+                      ,"num"  :0
+                    }
+                  ]
+              },
+              {
+                  "id": 1010004,
+                  "superCategoryId": 1008000,
+                  "showIndex": 3,
+                  "name": "双肩包",
+                  "frontName": "背上的时髦",
+                  "frontDesc": "精巧设计，严选全程监制",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/5197c44b610d786796f955334b55c7a5.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "运动拼色双肩包",
+                      "frontDesc": "净重0.28KG的耐磨运动包",
+                      "price": 49,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e7122a55dff227eb8655a8f52d81e537.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "小馒头 多色双肩包",
+                      "frontDesc": "奶油色泽，小巧减龄",
+                      "price": 79,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/455eee1712358dbcb2e33d54ab287808.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1008018,
+                  "superCategoryId": 1008000,
+                  "showIndex": 4,
+                  "name": "单肩包",
+                  "frontName": "单肩装上惬意心情",
+                  "frontDesc": "匠心制版，立体有型",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/2f71c7710f0bf857e787e1adb449c8a2.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "寂地原色斜挎单肩包",
+                      "frontDesc": "仅售供应商建议价的1/3",
+                      "price": 99,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/9e41ed23f125621a2295793ac9e71cf8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "马卡龙色褶皱感可折叠购物袋",
+                      "frontDesc": "柔和色系 充足容量",
+                      "price": 29,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/770c5a3405c025341b9e8bb92fd3a740.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1008003,
+                  "superCategoryId": 1008000,
+                  "showIndex": 5,
+                  "name": "男鞋",
+                  "frontName": "一双好鞋，才能带你到远方",
+                  "frontDesc": "百搭造型，舒适脚感，久穿不累",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/4316c2d05745bc90d1f333e363e571bd.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "哑光美式低帮休闲鞋",
+                      "frontDesc": "橡胶大底，踏实舒适脚感",
+                      "price": 249,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/b0c99640b63d18e5e7dcad1d2ab72839.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男式一脚蹬乐福鞋",
+                      "frontDesc": "袜套设计，舒适更贴足",
+                      "price": 259,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/d312c99258043a8f43e4c04695c06a95.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1013000,
+                  "superCategoryId": 1008000,
+                  "showIndex": 6,
+                  "name": "女鞋",
+                  "frontName": "女士的优雅魅力",
+                  "frontDesc": "UGG制造商出品",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/340e0f58cc53085c9198abb044dd615f.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "切尔西敲花牛皮女靴",
+                      "frontDesc": "细腻雕花，帅气与甜美的随意切换",
+                      "price": 329,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/a0cea80f8beaae27c3825f5c46bb2e76.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "丝感雪花扣高跟女鞋",
+                      "frontDesc": "丝感鞋面，搭配7CM金属跟",
+                      "price": 239,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0e2c00dfaa1d51040f10a7e91b0312ec.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1044000,
+                  "superCategoryId": 1008000,
+                  "showIndex": 7,
+                  "name": "鞋配",
+                  "frontName": "关于鞋子的小配件",
+                  "frontDesc": "关于鞋子的小配件",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/2d74ae435d8f7fff5ef0b64e653ac257.png",
+                  "iconUrl": "",
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "皮毛一体鞋垫",
+                      "frontDesc": "皮毛一体，3重吸汗",
+                      "price": 59,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/31a231e17f9cd8441037db29bb43c410.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "软弹增高鞋垫",
+                      "frontDesc": "柔软半垫，增高2cm",
+                      "price": 9.9,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/7cb25deff5b86cd9d54ac9265b453c98.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "皮毛一体鞋垫",
+                      "frontDesc": "皮毛一体，3重吸汗",
+                      "price": 59,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/31a231e17f9cd8441037db29bb43c410.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "软弹增高鞋垫",
+                      "frontDesc": "柔软半垫，增高2cm",
+                      "price": 9.9,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/7cb25deff5b86cd9d54ac9265b453c98.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "皮毛一体鞋垫",
+                      "frontDesc": "皮毛一体，3重吸汗",
+                      "price": 59,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/31a231e17f9cd8441037db29bb43c410.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "软弹增高鞋垫",
+                      "frontDesc": "柔软半垫，增高2cm",
+                      "price": 9.9,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/7cb25deff5b86cd9d54ac9265b453c98.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "皮毛一体鞋垫",
+                      "frontDesc": "皮毛一体，3重吸汗",
+                      "price": 59,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/31a231e17f9cd8441037db29bb43c410.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "软弹增高鞋垫",
+                      "frontDesc": "柔软半垫，增高2cm",
+                      "price": 9.9,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/7cb25deff5b86cd9d54ac9265b453c98.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1008010,
+                  "superCategoryId": 1008000,
+                  "showIndex": 7,
+                  "name": "拖鞋",
+                  "frontName": "穿上拖鞋，回到自我",
+                  "frontDesc": "人体工学设计，放松双脚",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/1121696544ed9b0c2a70e82f1088fa0e.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "大白鲨男/女家居拖鞋",
+                      "frontDesc": "可爱大白鲨，萌化一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/800dfdea41794c005cee822158855222.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "长毛兔女式家居拖鞋",
+                      "frontDesc": "萌趣长绒毛，温暖一整冬",
+                      "price": 45,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/f23600f9bac6fbb5e299466aebcf61ad.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1008007,
+                  "superCategoryId": 1008000,
+                  "showIndex": 8,
+                  "name": "围巾件套",
+                  "frontName": "围上它，你的造型才完整",
+                  "frontDesc": "严选好材料，亲肤柔软，防风抗寒，温暖不失风度",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/3a8c7ae5b9dc5c1c4b7f2b656abb0279.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%羊毛简约纯色围巾",
+                      "frontDesc": "简约大牌质感，百分百羊毛",
+                      "price": 159,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/8569389addb25d4c50d34baf4fa91f7e.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "做旧感鸭舌棒球帽",
+                      "frontDesc": "47Brand合作供应商出品",
+                      "price": 39,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/ae8efd98ec67754ee44a41e52af24dd8.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1020008,
+                  "superCategoryId": 1008000,
+                  "showIndex": 9,
+                  "name": "配饰",
+                  "frontName": "与众不同的点睛之笔",
+                  "frontDesc": "优选设计，让细节显示好品味",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/d835a76e56a88905194f543b67089b4b.png",
+                  "iconUrl": "",
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "璀璨灵动 项链",
+                      "frontDesc": "57切面锆石，闪烁芯动专利",
+                      "price": 209,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/abe6028120ba42923e26e5f638dee7ae.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "100%真丝 暗纹领带",
+                      "frontDesc": "商务8cm，100%桑蚕丝面料",
+                      "price": 109,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/0bf25d16541b34d492bfb9f117d55d7a.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              },
+              {
+                  "id": 1036001,
+                  "superCategoryId": 1008000,
+                  "showIndex": 12,
+                  "name": "眼镜",
+                  "frontName": "实用加时尚，造型百搭单品",
+                  "frontDesc": "实用加时尚，造型百搭单品",
+                  "bannerUrl": "http://yanxuan.nosdn.127.net/97f5f75ea1209dfbb85e91932d26c3ed.png",
+                  "iconUrl": null,
+                  "level": "L2",
+                  "subCateList": [
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "金属细边方框眼镜架",
+                      "frontDesc": "细致纹理，暗哑大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/1343da7a6e09f91729236796b947ac71.png?imageView&quality=65&thumbnail=330x330"
+                    },
+                    {
+                      "name": "男女款 轻质板材眼镜架",
+                      "frontDesc": "轻质板材，简约大方",
+                      "price": 129,
+                      "imgUrl": "http://yanxuan.nosdn.127.net/e9b7efd231749c5191ad6d1d8b9a0bac.png?imageView&quality=65&thumbnail=330x330"
+                    }
+                  ]
+              }
+          ]
+      }
+
+    ]
+  }
+}

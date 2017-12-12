@@ -1,0 +1,30 @@
+{
+
+	"lists":["推荐区","冬季专区","出行专区","居家","餐厨","配件","服装","电器","洗护","杂货","饮食","婴童","志趣"],
+
+	"shuList":[
+		{
+         "head": "旅行箱包",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/65fa0bba905dcab920b691d954a96f1f.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "旅行收纳",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/ec99f6e48bca9784a7f0c6ab01c703fc.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "随行小物",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/65961f48922cb3d33ad04adc02be6b15.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "照相造型",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/cc01a27450504e271c90a8833643db04.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "车载用品",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/a5f6d481aeddae4a9e5ed1932970ea42.png?imageView&quality=85&thumbnail=144x144"
+	},
+			{
+         "head": "户外野营",
+         "bannerUrl":"http://yanxuan.nosdn.127.net/6b4f6e572fb6840a4546e02b6ad3dff2.png?imageView&quality=85&thumbnail=144x144"
+	}
+]}
